@@ -1,5 +1,5 @@
 # HelloTestFX
-This is a companion project for Lab 7.
+This is a companion project for Lab 9.
 
 # Running
 To execute the project, use the `javafx:run` goal.
