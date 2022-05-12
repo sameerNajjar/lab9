@@ -19,7 +19,6 @@ public class PrimaryController {
 
     @FXML
     void sayHello(ActionEvent event) {
-
     }
 
     @FXML

@@ -11,7 +11,7 @@
       <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
    </padding>
    <children>
-      <TextField id="text-area" fx:id="textField" editable="false" styleClass="text-area" stylesheets="@style.css">
+      <TextField id="textField" fx:id="textField" editable="false" styleClass="textField" stylesheets="@style.css">
          <font>
             <Font size="36.0" />
          </font></TextField>

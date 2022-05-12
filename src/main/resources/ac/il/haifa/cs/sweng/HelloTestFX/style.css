@@ -11,7 +11,7 @@
     -fx-text-fill: #FFFAFA;
 }
 
-.text-area {
+.textField {
     -fx-background-color: transparent;
     -fx-font-size: 36;
     -fx-font: Ariel;
