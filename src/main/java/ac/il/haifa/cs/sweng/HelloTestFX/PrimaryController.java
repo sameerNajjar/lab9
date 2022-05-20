@@ -19,6 +19,7 @@ public class PrimaryController {
 
     @FXML
     void sayHello(ActionEvent event) {
+        textField.setText("Hello World");
     }
 
     @FXML
